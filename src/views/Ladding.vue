@@ -79,6 +79,16 @@
             <div class="blog-slider blog-inner">
                 <div class="single-blog">
                     <div class="single-blog__img" style="max-width: 50%;">
+                        <img src="images/proyectos/transportevision.webp" alt="blog image" loading="lazy">
+                    </div>
+                    <div class="single-blog__text">
+                        <h4>Transporte Vision</h4>
+                        <span>2020</span>
+                        <p>Transporte. Ubicado en Neuquen, Argentina</p>
+                    </div>
+                </div>
+                <div class="single-blog">
+                    <div class="single-blog__img" style="max-width: 50%;">
                         <img src="images/proyectos/iac-mutual.webp" alt="blog image" loading="lazy">
                     </div>
                     <div class="single-blog__text">
@@ -182,10 +192,10 @@
                         <span style="font-weight: bold;text-decoration: underline;">Gestor de configuraciones:</span> GIT (GitHub, GitLab)
                     </p>
                     <p style="margin-bottom: 1%;">
-                        <span style="font-weight: bold;text-decoration: underline;">Framework de desarrollo usado:</span> Codeigniter, Express (Basico), VueJS
+                        <span style="font-weight: bold;text-decoration: underline;">Framework de desarrollo usado:</span> Codeigniter, Express, VueJS, Angular
                     </p>
                     <p style="margin-bottom: 1%;">
-                        <span style="font-weight: bold;text-decoration: underline;">Lenguajes de desarrollo:</span> PHP, JavaScript, HTML, CSS, NodeJs (Basica), VueJS
+                        <span style="font-weight: bold;text-decoration: underline;">Lenguajes de desarrollo:</span> PHP, JavaScript, HTML, CSS, NodeJs, VueJS, Angular
                     </p>
                     <p style="margin-bottom: 1%;">
                         <span style="font-weight: bold;text-decoration: underline;">Esquema de base de datos:</span> SQL (MySQL, Postgress), NoSQL (MongoDB)
